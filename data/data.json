@@ -260,8 +260,8 @@
    },
    {
       "lecture_number":"38",
-      "title":"Lecture 38 - Title Need To Be Updated",
-      "slides_numbers":"Ch.0 - [00-00]",
+      "title":"Ch.4 - Pipelining - Lundry Analogy + Pipelining SpeedUP + Pipeline Performance + Intoduction To Hazards + Data Hazards + 2 Solutions For Data Hazards.",
+      "slides_numbers":"Ch.4 - Pipelining - [11-24]",
       "date":"2026/04/28",
       "link":"https://najah.zoom.us/rec/share/EcnHaPtsnamvqS09Y6nJv9GbLfcPYlfIm_lqSCbbviQU16IslFuCXLBhkbtCDs0c.xJToLzNOQXRtxp2g"
    },
