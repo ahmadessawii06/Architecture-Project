@@ -267,8 +267,8 @@
    },
    {
       "lecture_number":"39",
-      "title":"Lecture 39 - Title Need To Be Updated",
-      "slides_numbers":"Ch.0 - [00-00]",
+      "title":"Ch.4 - Pipelining - Control Hazards + Structural Hazards + Solutions For Control Hazards + Solutions For Structural Hazards + Revison For Pipelining.",
+      "slides_numbers":"Ch.4 - Pipelining - [25-35]",
       "date":"2026/04/30",
       "link":"https://najah.zoom.us/rec/share/1CBuD7QDfZRSjWdGvxllLRazT4Puk4Gt8quQ8SgGsqn65aCXg_xFIH2jSgETB4ii.X4AMdd7HEDFntJq7"
    },
